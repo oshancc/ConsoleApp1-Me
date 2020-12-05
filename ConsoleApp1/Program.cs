@@ -9,6 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("oshancc");
             Console.WriteLine("branch");
             Console.WriteLine("branch1 ta yannaa");
+            Console.WriteLine("stu class crea");
         }
     }
 }
