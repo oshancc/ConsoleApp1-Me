@@ -9,7 +9,7 @@ namespace ConsoleApp1
             Console.WriteLine("oshancc");
             Console.WriteLine("osh");
             Console.WriteLine("osha");
-            Console.WriteLine("oshanc");
+            Console.WriteLine("yyyyyy");
 
 
 
