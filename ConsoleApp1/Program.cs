@@ -7,9 +7,12 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("oshancc");
-            Console.WriteLine("branch");
-           
-            
+            Console.WriteLine("osh");
+            Console.WriteLine("osha");
+            Console.WriteLine("oshanc");
+
+
+
         }
     }
 }
